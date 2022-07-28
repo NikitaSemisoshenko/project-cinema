@@ -1,4 +1,4 @@
-# Cinema-Project
+# project_cinema
 Simple application which provides CRUD operations for cinema tickets shop. It supports authentication and authorization.
 It supports roles model as well.
 # Features
@@ -8,12 +8,12 @@ It supports roles model as well.
 * completing order
 * view order history
 # Project structure
-The Cinema-Project based on a 3-tier architecture
+The project_cinema based on a 3-tier architecture
 * controllers for handling requests and responses
 * service layer with business logic
 * DAO layer that works with database
 
-The Cinema-Project based on Spring and Hibernate frameworks. All service and dao classes is beans. They are handles
+The project_cinema based on Spring and Hibernate frameworks. All service and dao classes is beans. They are handles
 by Spring Framework. All users passwords encrypted with BCrypt algorithm. Hibernate framework responsible for mapping
 entities with ORM.
 
