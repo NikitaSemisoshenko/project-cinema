@@ -19,7 +19,7 @@ entities with ORM.
 
 Scheme of entities relations below
 
-![alt text](Cinema_Uml.png)
+![alt text](cinema.png)
 
 # Developed with
 * Java 11
@@ -34,6 +34,8 @@ Scheme of entities relations below
 * in db.properties file write your credentials - database connectivity driver, database url, username, password
 * set up your Tomcat local server configuration
 * run the application with Tomcat
+
+# How to test it out
 
 Then the application starts two users are already injects. Here the credentials for them
 * login: bob@i.ua. Password: 12345678. Role: admin
